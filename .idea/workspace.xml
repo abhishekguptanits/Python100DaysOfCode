@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6907ab6-9231-411e-9078-0b9f9d27e6f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day-28-Tkinter-Dynamic_Typing-Pomodoro_GUI_Application/day-28-001-pomodoro-app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-28-Tkinter-Dynamic_Typing-Pomodoro_GUI_Application/day-28-001-pomodoro-app/tomato.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-29-Password_Manger-GUI_App-with-Tkinter/day-29-001-Password-Manager-App/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-29-Password_Manger-GUI_App-with-Tkinter/day-29-001-Password-Manager-App/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-29-Password_Manger-GUI_App-with-Tkinter/day-29-001-Password-Manager-App/password-generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-30-Errors-Exceptions-JSON_Data/day-30-001-try-catch-finally/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-30-Errors-Exceptions-JSON_Data/day-30-001-try-catch-finally/user_defined_exception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
