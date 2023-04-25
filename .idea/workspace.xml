@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6907ab6-9231-411e-9078-0b9f9d27e6f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day-30-Errors-Exceptions-JSON_Data/day-30-001-try-catch-finally/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-30-Errors-Exceptions-JSON_Data/day-30-001-try-catch-finally/user_defined_exception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-26-List-Comprehension-AND-NATO-Alphabet/day-26-005-NATO-Alphabet-Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day-26-List-Comprehension-AND-NATO-Alphabet/day-26-005-NATO-Alphabet-Project/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
