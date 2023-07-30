@@ -1,0 +1,16 @@
+Un-escaping the HTML Entities in Python: 'https://stackoverflow.com/questions/2087370/decode-html-entities-in-python-string'
+    import html
+    print(html.unescape('&pound;682m'))
+
+HTML Un-escape tool: 'https://www.freeformatter.com/html-escape.html'
+
+HTML Entities: 'https://www.w3schools.com/html/html_entities.asp'
+
+Python allows Dynamic Typing
+    age: int
+    age = 12
+
+
+
+
+
