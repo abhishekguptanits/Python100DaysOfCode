@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6907ab6-9231-411e-9078-0b9f9d27e6f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day-30-Errors-Exceptions-JSON_Data/day-30-002-Password-Manager-App-V2/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-30-Errors-Exceptions-JSON_Data/day-30-002-Password-Manager-App-V2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/automated_birthday_wisher/birthdays.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/automated_birthday_wisher/hints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/automated_birthday_wisher/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/date_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/send_quotes_via_mail_on_mondays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/iss-overhead-notifier/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/iss-overhead-notifier/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/kanye-quote-gui-app/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/kanye-quote-gui-app/kanye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/kanye-quote-gui-app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/kanye-quotes-app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/sunset-sunrise-api-parameters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +56,11 @@
       <recent name="$PROJECT_DIR$/day-27-Tkinter-*args-**kwargs-guiPrograms/day-27-004-Buttons-Entry-and-Setting-Component-Options" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/iss-overhead-notifier" />
+      <recent name="$PROJECT_DIR$/day-33-API-Endpoints_API-Parameters_ISS-Overhead-Notifier/kanye-quote-gui-app" />
       <recent name="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime/automated_birthday_wisher" />
       <recent name="$PROJECT_DIR$/day-32-Send-Email-smtplib-and-datatime" />
       <recent name="$PROJECT_DIR$/day-31-Flash-Card-App" />
-      <recent name="$PROJECT_DIR$/day-29-Password_Manger-GUI_App-with-Tkinter/day-29-001-Password-Manager-App" />
-      <recent name="$PROJECT_DIR$/day-28-Tkinter-Dynamic_Typing-Pomodoro_GUI_Application/day-28-001-pomodoro-app" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
