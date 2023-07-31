@@ -1,0 +1,5 @@
+export OWM_API_KEY=e2a0ad898be0d01ebf0e5397915dc779
+
+api_key = os.environ.get("OWM_API_KEY")
+
+
